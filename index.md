@@ -5,7 +5,8 @@
 - The stuents are nice
 - The _class_ is fun!
 
-https://cdn.britannica.com/70/234870-050-D4D024BB/Orange-colored-cat-yawns-displaying-teeth.jpg
+<img width="1600" height="1146" alt="image" src="https://github.com/user-attachments/assets/06b93018-e4fa-4f8c-b316-7d91d5942f69" />
+
 
 
 
