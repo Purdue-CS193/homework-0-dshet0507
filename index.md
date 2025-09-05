@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+# Dhruv Shet's First CS193 Homework!
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- The teachers are great
+- The class is in a theater
+- The stuents are nice
+- The _class_ is fun!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your markdown files.
+https://cdn.britannica.com/70/234870-050-D4D024BB/Orange-colored-cat-yawns-displaying-teeth.jpg
+
+
 
 ### Markdown
 
